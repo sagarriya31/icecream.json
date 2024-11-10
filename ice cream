@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Vanilla Toffee Bar Crunch",
+        "image_closed": "https://www.allrecipes.com/thmb/8_DOwnDZKWRteuSy-bhGudm0N68=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-8314-Vanilla-Ice-Cream-gw-ddmfs-beauty-4x3-b0f065ec1e7346abb82f4b3d2ad9907b.jpg",
+        "image_open": "https://www.allrecipes.com/thmb/8_DOwnDZKWRteuSy-bhGudm0N68=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-8314-Vanilla-Ice-Cream-gw-ddmfs-beauty-4x3-b0f065ec1e7346abb82f4b3d2ad9907b.jpg",
+        "description": "Vanilla Ice Cream with Fudge-Covered Toffee Pieces",
+        "story": "Vanilla What Bar Crunch? We gave this flavor a new name to go with the new toffee bars we’re using as part of our commitment to source Fairtrade Certified and non-GMO ingredients. We love it and know you will too!",
+        "sourcing_values": [
+            "Non-GMO",
+            "Cage-Free Eggs",
+            "Fairtrade",
+            "Responsibly Sourced Packaging",
+            "Caring Dairy"
+        ],
+        "ingredients": [
+            "cream",
+            "skim milk",
+            "liquid sugar",
+            "water",
+            "sugar",
+            "coconut oil",
+            "egg yolks",
+            "butter",
+            "vanilla extract",
+            "almonds",
+            "cocoa (processed with alkali)",
+            "milk",
+            "soy lecithin",
+            "cocoa",
+            "natural flavor",
+            "salt",
+            "vegetable oil",
+            "guar gum",
+            "carrageenan"
+        ],
+        "allergy_info": "may contain wheat, peanuts and other tree nuts",
+        "dietary_certifications": "Kosher",
+        "productId": "646"
+    },
+    {
+        "name": "Strawberry Fanta Milky",
+        "image_closed": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Sle_ld_3o2pw_MzvtDgMTsczGx2kTL-bNg&s",
+        "image_open": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Sle_ld_3o2pw_MzvtDgMTsczGx2kTL-bNg&s",
+        "description": "Strawberry Ice Cream with Fanta. Yuck!",
+        "story": "Strawberry Pinky Fanta Milky yaya",
+        "sourcing_values": [
+            "Non-GMO",
+            "Cage-Free Eggs",
+            "Fairtrade",
+            "Responsibly Sourced Packaging",
+            "Caring Dairy"
+        ],
+        "ingredients": [
+            "cream",
+            "skim milk",
+            "liquid sugar",
+            "water",
+            "sugar",
+            "egg yolks",
+            "butter",
+            "strawberry extract",
+            "fanta",
+            "milk"
+        ],
+        "allergy_info": "May contain unusual ingredient mix, soda",
+        "dietary_certifications": "Kosher",
+        "productId": "123"
+    },
+    {
+        "name": "Chooco Oreo Flavor",
+        "image_closed": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SM-9NMxvt1XT--YeBrepszy7dl8y1dGCxQ&s",
+        "image_open": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SM-9NMxvt1XT--YeBrepszy7dl8y1dGCxQ&s",
+        "description": "Oreo Oreo with Choco",
+        "story": "Chocolatos meet Oreo flavor give yourself a boost",
+        "sourcing_values": [
+            "Non-GMO",
+            "Cage-Free Eggs",
+            "Fairtrade",
+            "Responsibly Sourced Packaging",
+            "Caring Dairy"
+        ],
+        "ingredients": [
+            "cream",
+            "skim milk",
+            "liquid sugar",
+            "water",
+            "sugar",
+            "egg yolks",
+            "butter",
+            "oreo",
+            "chocolate bar",
+            "milk"
+        ],
+        "allergy_info": "contain too many chocolate",
+        "dietary_certifications": "Kosher",
+        "productId": "234"
+    },
+    {
+        "name": "Cheese and Creammy Touch",
+        "image_closed": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSArubDd7SDlPuOu_5iohDeVyXQ-piKjoA_eQ&s",
+        "image_open": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSArubDd7SDlPuOu_5iohDeVyXQ-piKjoA_eQ&s",
+        "description": "Cheese Cream Everywhere",
+        "story": "Cheese, Cream, take it with you",
+        "sourcing_values": [
+            "Non-GMO",
+            "Cage-Free Eggs",
+            "Fairtrade",
+            "Responsibly Sourced Packaging",
+            "Caring Dairy"
+        ],
+        "ingredients": [
+            "cream",
+            "skim milk",
+            "liquid sugar",
+            "water",
+            "sugar",
+            "egg yolks",
+            "butter",
+            "cheedar cheese",
+            "mozzarella cheese",
+            "milk"
+        ],
+        "allergy_info": "contain too many cheese",
+        "dietary_certifications": "Kosher",
+        "productId": "345"
+    }
+]
